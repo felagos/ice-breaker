@@ -4,6 +4,8 @@ from langchain.chains.llm import LLMChain
 from langchain_openai import ChatOpenAI
 from langchain_core.prompts import PromptTemplate
 
+from third_parties import linkedin
+
 if __name__ == "__main__":
     load_dotenv()
 
