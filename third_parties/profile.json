@@ -1,0 +1,270 @@
+{
+    "public_identifier": "felagoss",
+    "profile_pic_url": null,
+    "background_cover_image_url": null,
+    "first_name": "Felipe",
+    "last_name": "Lagos Sánchez",
+    "full_name": "Felipe Lagos Sánchez",
+    "follower_count": 90,
+    "occupation": "Desarrollador Fullstack at Banco Internacional",
+    "headline": "Software Developer Banco Internacional",
+    "summary": null,
+    "country": "CL",
+    "country_full_name": "Chile",
+    "city": "Valparaíso",
+    "state": "Valparaiso Region",
+    "experiences": [
+      {
+        "starts_at": {
+          "day": 1,
+          "month": 7,
+          "year": 2021
+        },
+        "ends_at": null,
+        "company": "Banco Internacional",
+        "company_linkedin_profile_url": "https://www.linkedin.com/company/banco-internacional",
+        "title": "Desarrollador Fullstack",
+        "description": "Como desarrollador Fullstack, he tenido la oportunidad de trabajar en proyectos internos centrados en el procesamiento de pagos con tarjeta de crédito, la integración con servicios de autorización y la gestión de préstamos de crédito. Mi experiencia se extiende tanto al desarrollo web como al desarrollo móvil, utilizando tecnologías como React.js, React Native, Spring Boot y Nest.js.\n\nDurante mi tiempo en este rol, he desempeñado un papel integral en el diseño, implementación y mantenimiento de sistemas y aplicaciones. He colaborado estrechamente con equipos multidisciplinarios para comprender los requisitos del negocio y traducirlos en soluciones técnicas efectivas.\n\nEn el ámbito del desarrollo web, he utilizado React.js y Spring Boot para construir interfaces de usuario interactivas y receptivas, aprovechando las mejores prácticas de desarrollo de interfaces y garantizando una experiencia de usuario fluida.\n\nEn cuanto al desarrollo móvil, he utilizado React Native para crear aplicaciones nativas para iOS y Android, permitiendo una mayor eficiencia en la implementación y el mantenimiento de las aplicaciones en múltiples plataformas.",
+        "location": "Gran Santiago, Región Metropolitana de Santiago, Chile · Remote",
+        "logo_url": "https://media.licdn.com/dms/image/C4D0BAQEdfS04EVVraA/company-logo_400_400/0/1646062889747/banco_internacional_logo?e=1719446400&v=beta&t=fuaaZ3quKi2A3VgT28mwcFun9Hvq6EVmPj4G_v9EMxc"
+      },
+      {
+        "starts_at": {
+          "day": 1,
+          "month": 2,
+          "year": 2020
+        },
+        "ends_at": {
+          "day": 31,
+          "month": 7,
+          "year": 2021
+        },
+        "company": "SII Group Chile",
+        "company_linkedin_profile_url": "https://www.linkedin.com/company/siigroup-chile",
+        "title": "Desarrollador FullStack",
+        "description": "Desarrollo de un proyecto para el cliente BancoEstado usando tecnología de Angular 8,  Nodejs, Jest y Jasmine.\nDentro de mis labores me ha tocado implementar microservicios, desarrollo de las funcionalidades web como también sus respectivas pruebas unitarias.",
+        "location": "Provincia dexa0Santiago, Chile",
+        "logo_url": "https://media.licdn.com/dms/image/C560BAQGGO2TqljO14w/company-logo_400_400/0/1652283726904/siigroup_chile_logo?e=1719446400&v=beta&t=cSOE7XVPTgrtvtJB133Q2GSDQP8L6KNEhnjxJ5-YBIc"
+      },
+      {
+        "starts_at": {
+          "day": 1,
+          "month": 10,
+          "year": 2019
+        },
+        "ends_at": {
+          "day": 29,
+          "month": 2,
+          "year": 2020
+        },
+        "company": "Apiux Tecnología",
+        "company_linkedin_profile_url": "https://www.linkedin.com/company/api-ux",
+        "title": "Desarrollador Java",
+        "description": "Desarrollo del proyecto “Reforma tributaria” en el Servicio de Impuestos Internos, donde he   tenido que realizar ajustes, desarrollos de requerimientos e integraciones con servicio bajo la metodología de Scrum, además de usar tecnologías como JAVA (Spring 3), Oracle, JavaScript y HTML.",
+        "location": "Santiago Centro, Chile",
+        "logo_url": "https://media.licdn.com/dms/image/D4E0BAQGuXwbvRlIC-Q/company-logo_400_400/0/1688411352550/api_ux_logo?e=1719446400&v=beta&t=pY1DOJIPi8ZOz5wXnXjodKCoB6Mwj6hWkcsW6rEKb2M"
+      },
+      {
+        "starts_at": {
+          "day": 1,
+          "month": 12,
+          "year": 2015
+        },
+        "ends_at": {
+          "day": 31,
+          "month": 10,
+          "year": 2019
+        },
+        "company": "Trabajando.com",
+        "company_linkedin_profile_url": "https://www.linkedin.com/company/trabajando.com",
+        "title": "Desarrollador de software",
+        "description": "Desarrollo de mejoras y funcionalidades de aplicaciones web, trabajando con tecnologías  PHP y Java como lenguajes de programación.  Manejo de datos JSON, desarrollo bajo arquitectura MVC y POO.",
+        "location": "Las Condes, Región Metropolitana de Santiago, Chile",
+        "logo_url": "https://media.licdn.com/dms/image/D4E0BAQG1HQY3KOF9rw/company-logo_400_400/0/1688339560183?e=1719446400&v=beta&t=y_jG6JpBoLbLgEugytea4azLMvpqwRgLABkS42XwBiA"
+      },
+      {
+        "starts_at": {
+          "day": 1,
+          "month": 3,
+          "year": 2014
+        },
+        "ends_at": {
+          "day": 30,
+          "month": 11,
+          "year": 2015
+        },
+        "company": "Universidad de Valparaíso",
+        "company_linkedin_profile_url": "https://www.linkedin.com/company/universidad-de-valparaiso",
+        "title": "Desarrollador de software",
+        "description": "Desarrollo de plataforma web y móvil (Android y iOS) en marco del proyecto “Plataforma de integración tecnológica para el registro, vigilancia y alerta de enfermedades de notificación obligatoria”, para la notificación y alertas de brotes de enfermedades indicadas en el Decreto Supremo 158",
+        "location": "Provincia dexa0Valparaíso, Chile",
+        "logo_url": "https://media.licdn.com/dms/image/C4D0BAQECgIkf5zPsqg/company-logo_400_400/0/1669227117542/universidad_de_valpara_so_logo?e=1719446400&v=beta&t=9oPNaApN4f0qQ3SaeFcx3iwMzrN1FawFlBQZ_8kT_TY"
+      },
+      {
+        "starts_at": {
+          "day": 1,
+          "month": 4,
+          "year": 2015
+        },
+        "ends_at": {
+          "day": 31,
+          "month": 10,
+          "year": 2015
+        },
+        "company": "Universidad de Valparaíso",
+        "company_linkedin_profile_url": "https://www.linkedin.com/company/universidad-de-valparaiso",
+        "title": "Desarrollador de software",
+        "description": "Desarrollo de plataforma web y móvil (Android y iOS) en marco del proyecto “Hogar Inteligente para Mejorar la Calidad de Vida de Adultos Mayores”, para la visualización, detección y aviso de alertas (caídas, nicturia y acciones repetidas) con datos proveniente de micro-controladores instalados en las casas.",
+        "location": "Provincia dexa0Valparaíso, Chile",
+        "logo_url": "https://media.licdn.com/dms/image/C4D0BAQECgIkf5zPsqg/company-logo_400_400/0/1669227117542/universidad_de_valpara_so_logo?e=1719446400&v=beta&t=9oPNaApN4f0qQ3SaeFcx3iwMzrN1FawFlBQZ_8kT_TY"
+      },
+      {
+        "starts_at": {
+          "day": 1,
+          "month": 10,
+          "year": 2014
+        },
+        "ends_at": {
+          "day": 30,
+          "month": 9,
+          "year": 2015
+        },
+        "company": "Universidad de Valparaíso",
+        "company_linkedin_profile_url": "https://www.linkedin.com/company/universidad-de-valparaiso",
+        "title": "Desarrollador de software",
+        "description": "Como desarrollador Fullstack en mi trabajo actual, me dedico a la creación y mantenimiento de un sistema web utilizando Laravel y PostgreSQL. Este sistema está diseñado para gestionar las camas en los hospitales públicos de la quinta región de Chile.\n\nA través de este sistema, los usuarios pueden acceder y visualizar el estado de las camas, lo que resulta fundamental para una gestión eficiente de los recursos hospitalarios. Además, el sistema permite la creación y visualización de fichas de pacientes, lo que facilita el seguimiento y registro de la información médica relevante.\n\nUna de las funcionalidades clave de esta plataforma es la capacidad de derivar pacientes a otros hospitales cuando sea necesario. Esto ayuda a optimizar la distribución de los recursos y garantizar que cada paciente reciba la atención adecuada en el lugar más conveniente.\n\nComo desarrollador Fullstack, mi responsabilidad principal es trabajar en todas las capas del sistema, tanto en el desarrollo del frontend como en el backend. Esto implica diseñar y construir la interfaz de usuario, implementar las funcionalidades solicitadas y asegurar la integridad de los datos almacenados en la base de datos.",
+        "location": "Provincia dexa0Valparaíso, Chile",
+        "logo_url": "https://media.licdn.com/dms/image/C4D0BAQECgIkf5zPsqg/company-logo_400_400/0/1669227117542/universidad_de_valpara_so_logo?e=1719446400&v=beta&t=9oPNaApN4f0qQ3SaeFcx3iwMzrN1FawFlBQZ_8kT_TY"
+      },
+      {
+        "starts_at": {
+          "day": 1,
+          "month": 3,
+          "year": 2015
+        },
+        "ends_at": {
+          "day": 30,
+          "month": 6,
+          "year": 2015
+        },
+        "company": "Universidad de Valparaíso",
+        "company_linkedin_profile_url": "https://www.linkedin.com/company/universidad-de-valparaiso",
+        "title": "Desarrollador de software",
+        "description": "Desarrollo de sitios web basado en Wordpress para el servicio de salud Viña del Mar – Quillota.",
+        "location": "Provincia dexa0Valparaíso, Chile",
+        "logo_url": "https://media.licdn.com/dms/image/C4D0BAQECgIkf5zPsqg/company-logo_400_400/0/1669227117542/universidad_de_valpara_so_logo?e=1719446400&v=beta&t=9oPNaApN4f0qQ3SaeFcx3iwMzrN1FawFlBQZ_8kT_TY"
+      },
+      {
+        "starts_at": {
+          "day": 1,
+          "month": 3,
+          "year": 2013
+        },
+        "ends_at": {
+          "day": 31,
+          "month": 8,
+          "year": 2013
+        },
+        "company": "ZEKE",
+        "company_linkedin_profile_url": "https://www.linkedin.com/company/zeke-ltda",
+        "title": "Estudiante en prácticas",
+        "description": "Desarrollo de:\n1-. Plataforma web para la ayuda de revisión de código versionado mediante SVN.\n2-. Plataforma web para gestión de pagos de los proyectos de la empresa.\n",
+        "location": "Provincia dexa0Valparaíso, Chile",
+        "logo_url": "https://media.licdn.com/dms/image/C4E0BAQF8cbxmmftGbA/company-logo_400_400/0/1630568096115/zeke_ltda_logo?e=1719446400&v=beta&t=gjIMOO82qdxO77ifx9ge3SxsemsW2BRcEw-frr9Od4I"
+      }
+    ],
+    "education": [
+      {
+        "starts_at": {
+          "day": 1,
+          "month": 1,
+          "year": 2007
+        },
+        "ends_at": {
+          "day": 31,
+          "month": 12,
+          "year": 2014
+        },
+        "field_of_study": "Ingenieria Civil Informatica",
+        "degree_name": "Licenciatura",
+        "school": "Universidad de Valparaíso",
+        "school_linkedin_profile_url": "https://www.linkedin.com/company/universidad-de-valparaiso",
+        "description": null,
+        "logo_url": "https://media.licdn.com/dms/image/C4D0BAQECgIkf5zPsqg/company-logo_400_400/0/1669227117542/universidad_de_valpara_so_logo?e=1719446400&v=beta&t=9oPNaApN4f0qQ3SaeFcx3iwMzrN1FawFlBQZ_8kT_TY",
+        "grade": null,
+        "activities_and_societies": null
+      }
+    ],
+    "languages": [],
+    "accomplishment_organisations": [],
+    "accomplishment_publications": [
+      {
+        "name": "Bridge Strengthening by Conversion to Tied-Arch Using Dragonfly Algorithm",
+        "publisher": "Jun 19, 2019",
+        "published_on": null,
+        "description": "Dragonfly algorithm is a metaheuristic that mimics the behavior of dragonflies in nature that has shown excellent performance for numerous optimization problems. The main inspiration of the algorithm originates in the behavior of static and dynamic swarms of dragonflies in nature. Two essential phases of optimization, exploration and exploitation are designed modeling the social interaction of dragonflies in navigation, the search for food and avoiding enemies when they accumulate dynamically or statistically. In the present work the problem of bridge reinforcement is addressed, for this case the dragonfly algorithm will be used to solve this problem.",
+        "url": "https://ieeexplore.ieee.org/document/8760936"
+      }
+    ],
+    "accomplishment_honors_awards": [],
+    "accomplishment_patents": [],
+    "accomplishment_courses": [],
+    "accomplishment_projects": [],
+    "accomplishment_test_scores": [],
+    "volunteer_work": [],
+    "certifications": [
+      {
+        "starts_at": {
+          "day": 1,
+          "month": 2,
+          "year": 2022
+        },
+        "ends_at": null,
+        "name": "Design Patterns",
+        "license_number": "LDZG4LS8L54Z",
+        "display_source": "www.coursera.org",
+        "authority": "Coursera",
+        "url": "https://www.coursera.org/account/accomplishments/certificate/LDZG4LS8L54Z"
+      }
+    ],
+    "connections": 86,
+    "people_also_viewed": [],
+    "recommendations": [],
+    "activities": [],
+    "similarly_named_profiles": [],
+    "articles": [],
+    "groups": [],
+    "skills": [
+      "Go",
+      "ASP.NET MVC",
+      "jQuery",
+      "Apache Cordova",
+      "Laravel",
+      "PostgreSQL",
+      "PHP",
+      "Angular",
+      "Express.js",
+      "Spring Boot",
+      "TypeScript",
+      "NestJS",
+      "React Native",
+      "Java",
+      "JavaScript",
+      "React.js"
+    ],
+    "inferred_salary": {
+      "min": null,
+      "max": null
+    },
+    "gender": null,
+    "birth_date": null,
+    "industry": null,
+    "extra": {
+      "github_profile_id": null,
+      "twitter_profile_id": null,
+      "facebook_profile_id": null
+    },
+    "interests": [],
+    "personal_emails": [],
+    "personal_numbers": []
+  }

@@ -9,6 +9,8 @@ from third_parties import linkedin
 if __name__ == "__main__":
     load_dotenv()
 
+    linkedin.scrape_profile('')
+
     summary_template = """
     Given the information {information} about a person I want to create:
     1. A short summary
@@ -21,7 +23,7 @@ if __name__ == "__main__":
     Occupation: Software Engineer
     """
 
-    summary_prompt = PromptTemplate(
+    """ summary_prompt = PromptTemplate(
         input_variables=["information"],
         template=summary_template,
     )
@@ -35,4 +37,4 @@ if __name__ == "__main__":
     chain = LLMChain(llm = llm, prompt = summary_prompt)
     res = chain.invoke(input = {"information": information})
 
-    print(res)
+    print(res) """
