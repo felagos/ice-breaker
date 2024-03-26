@@ -9,7 +9,7 @@ from third_parties import linkedin
 if __name__ == "__main__":
     load_dotenv()
 
-    linkedin.scrape_profile('')
+    profile = linkedin.scrape_profile()
 
     summary_template = """
     Given the information {information} about a person I want to create:
