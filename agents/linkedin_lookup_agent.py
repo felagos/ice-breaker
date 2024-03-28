@@ -6,6 +6,8 @@ from langchain_core.tools import Tool
 from langchain_core.prompts import PromptTemplate
 from langchain_openai import ChatOpenAI
 
+from tools import get_profile_url
+
 
 def lookup(name: str) -> str:
     llm = ChatOpenAI(
